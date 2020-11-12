@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{text-align:center}.title{padding:10px}.card{list-style:none;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around}.cardName{text-transform:capitalize}.cardPoke{border:2px solid green;border-radius:10px;padding:5px;margin:5px 0;height:180px}.cardType{text-transform:capitalize;list-style:none;background-color:#d3d3d3;border:#d3d3d3;border-radius:5px;padding:2px}.container{width:160px}
+/*# sourceMappingURL=main.6a65c366.chunk.css.map */
