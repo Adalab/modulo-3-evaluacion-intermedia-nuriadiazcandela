@@ -9,17 +9,18 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: flex-start;
+  padding: 20px 30px;
 }
 .cardName {
   text-transform: capitalize;
 }
 .cardPoke {
-  border: solid 2px green;
+  border: solid 2px rgb(148, 6, 6);
   border-radius: 10px;
   padding: 5px;
   margin: 5px 0 5px 0;
-  height: 180px;
+  height: 210px;
 }
 .cardType {
   text-transform: capitalize;
@@ -30,5 +31,6 @@
   padding: 2px;
 }
 .container {
-  width: 160px;
+  width: 190px;
+  padding-right: 10px;
 }
